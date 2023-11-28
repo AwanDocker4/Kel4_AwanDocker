@@ -1,0 +1,8 @@
+# Menggunakan image resmi MySQL
+FROM mysql:8.0
+
+# Mengatur variabel lingkungan
+ENV MYSQL_ROOT_PASSWORD pipand
+
+# Menyalin file SQL ke dalam container
+COPY absensi_rampa1.sql /docker-entrypoint-initdb.d/absensi_rampa1.sql
