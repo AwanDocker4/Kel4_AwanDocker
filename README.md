@@ -17,4 +17,4 @@ Dengan menggunakan teknologi Cloud Computing terkini yaitu Docker, Kubernetes, d
 4. Farhanah Sajidah    (21050974054)
 
 # Link Profil Prodi
-Tulis disini
+https://pendidikan-ti.ft.unesa.ac.id/
