@@ -2,7 +2,7 @@
 PADA WEBSITE PRESENSI SEKOLAH MENENGAH KEJURUAN (SMK)
 
 # Nama Kelompok
-1. Amanda Meilia Putri
-2. Riza Ismia
-3. Moh. Rifki Darmawan
-4. Farhanah Sajidah
+1. Amanda Meilia Putri (21050974016)
+2. Riza Ismia          (21050974020)
+3. Moh. Rifki Darmawan (21050974034)
+4. Farhanah Sajidah    (21050974054)
