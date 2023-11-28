@@ -1,8 +1,8 @@
 #  IMPLEMENTASI CLOUD COMPUTING MENGGUNAKAN DOCKER, KUBERNETES, DAN MINIKUBE
 PADA WEBSITE PRESENSI SEKOLAH MENENGAH KEJURUAN (SMK)
 
-# Deskripsi Aplikasi
-Tulis disini
+# Tujuan Aplikasi
+Aplikasi atau website ini ditujukan untuk memberikan solusi yang efisien dan modern dalam mengelola kehadiran siswa di Sekolah Menengah Kejuruan (SMK). 
 
 # Nama Kelompok
 1. Amanda Meilia Putri (21050974016)
